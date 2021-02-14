@@ -1,2 +1,2 @@
-# classic-pyside-mainwindow
+# cpsmainwindow
 A classic main window implementation for PySide
