@@ -1,4 +1,6 @@
-# cpsmainwindow - A classic main window implementation for PySide
+# cpsmainwindow
+
+A classic main window implementation for PySide
 
 ## Installation
 
