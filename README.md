@@ -10,6 +10,11 @@ Cpsmaindow is a python package.
 
 BSD style license, see the ``LICENSE`` file.
 
+## Documentation
+
+Documentation for cpsmainwindow is planned.
+
 ## Examples
 
-Please refer to ``examples``, for a an example how to use cpsmainwindow.
+Please refer to ``examples``, for a an example for a simple text editor, that used
+cpsmainwindow.

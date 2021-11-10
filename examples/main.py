@@ -1,4 +1,4 @@
-""" Standard example with empty classic main window """
+""" Cpsmainwindow example for a text editor """
 
 import sys
 import PySide2.QtWidgets as QtWidgets
